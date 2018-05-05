@@ -1,0 +1,14 @@
+.spacer {
+    width: 100%;
+    height: 60px;
+}
+
+.col_skill {
+    /*        background: #424242;*/
+}
+
+.gradient {
+    background: linear-gradient(to bottom right, #212121, #757575);
+    padding: 10px;
+    border: 1px solid #333;
+}
